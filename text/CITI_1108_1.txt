@@ -1,0 +1,1 @@
+{"CR No.": "1108-1", "Company Type": " Branch of a Foreign Company", "Status": "ACTIVE", "Nationality": "AMERICAN", "Registration Date": "02/12/1969", "Expiry Date": "02/01/2022"}

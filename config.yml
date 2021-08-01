@@ -1,0 +1,4 @@
+ocr:
+  source_base: "/mnt/c/Assignments/OCRApp/"
+  source_image_path: "/mnt/c/Assignments/OCRApp/images/"
+  target_text_path: "/mnt/c/Assignments/OCRApp/text/"

@@ -1,0 +1,1 @@
+{"CR No.": "88-1", "Company Type": " Simple Commandite Company", "Status": "LIQUIDATED", "Nationality": "BAHRAINI", "Registration Date": "20/06/1977", "Expiry Date": "20/06/2001"}
