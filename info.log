@@ -1,0 +1,105 @@
+2021-08-01 11:05:33,372 - [INFO] - __main__ - Initializing...
+2021-08-01 11:05:33,373 - [INFO] - __main__ - === Config parameters ===
+2021-08-01 11:05:33,375 - [INFO] - __main__ - _source_base -> /mnt/c/Assignments/UseCase/
+2021-08-01 11:05:33,376 - [INFO] - __main__ - _source_image_path -> /mnt/c/Assignments/UseCase/images/
+2021-08-01 11:05:33,376 - [INFO] - __main__ - _target_text_path -> /mnt/c/Assignments/UseCase/text/
+2021-08-01 11:05:33,387 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/UseCase/images/ABN_88_1.JPG ##
+2021-08-01 11:05:34,291 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/UseCase/text/ABN_88_1.txt ...
+2021-08-01 11:05:34,300 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/UseCase/images/ABN_88_2.JPG ##
+2021-08-01 11:05:34,915 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/UseCase/text/ABN_88_2.txt ...
+2021-08-01 11:05:34,922 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/UseCase/images/CITI_1108_1.JPG ##
+2021-08-01 11:05:35,413 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/UseCase/text/CITI_1108_1.txt ...
+2021-08-01 11:05:35,422 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/UseCase/images/CITI_1108_2.JPG ##
+2021-08-01 11:05:36,018 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/UseCase/text/CITI_1108_2.txt ...
+2021-08-01 11:05:36,024 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/UseCase/images/HSBC_330_1.JPG ##
+2021-08-01 11:05:36,500 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/UseCase/text/HSBC_330_1.txt ...
+2021-08-01 11:05:36,507 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/UseCase/images/HSBC_330_5.JPG ##
+2021-08-01 11:05:37,071 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/UseCase/text/HSBC_330_5.txt ...
+2021-08-01 11:05:37,080 - [INFO] - __main__ - ===============
+2021-08-01 11:05:37,081 - [INFO] - __main__ - == Use case Completed ==
+2021-08-01 11:05:37,082 - [INFO] - __main__ - ===============
+2021-08-01 11:08:13,963 - [INFO] - __main__ - Initializing...
+2021-08-01 11:08:13,965 - [INFO] - __main__ - === Config parameters ===
+2021-08-01 11:08:13,966 - [INFO] - __main__ - _source_base -> /mnt/c/Assignments/UseCase/
+2021-08-01 11:08:13,966 - [INFO] - __main__ - _source_image_path -> /mnt/c/Assignments/UseCase/images/
+2021-08-01 11:08:13,967 - [INFO] - __main__ - _target_text_path -> /mnt/c/Assignments/UseCase/text/
+2021-08-01 11:08:13,973 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/UseCase/images/ABN_88_1.JPG ##
+2021-08-01 11:08:14,531 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/UseCase/text/ABN_88_1.txt ...
+2021-08-01 11:08:14,538 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/UseCase/images/ABN_88_2.JPG ##
+2021-08-01 11:08:15,016 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/UseCase/text/ABN_88_2.txt ...
+2021-08-01 11:08:15,026 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/UseCase/images/CITI_1108_1.JPG ##
+2021-08-01 11:08:15,491 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/UseCase/text/CITI_1108_1.txt ...
+2021-08-01 11:08:15,497 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/UseCase/images/CITI_1108_2.JPG ##
+2021-08-01 11:08:15,942 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/UseCase/text/CITI_1108_2.txt ...
+2021-08-01 11:08:15,950 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/UseCase/images/HSBC_330_1.JPG ##
+2021-08-01 11:08:16,657 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/UseCase/text/HSBC_330_1.txt ...
+2021-08-01 11:08:16,665 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/UseCase/images/HSBC_330_5.JPG ##
+2021-08-01 11:08:17,247 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/UseCase/text/HSBC_330_5.txt ...
+2021-08-01 11:08:17,253 - [INFO] - __main__ - ===============
+2021-08-01 11:08:17,253 - [INFO] - __main__ - == Use case Completed ==
+2021-08-01 11:08:17,254 - [INFO] - __main__ - ===============
+2021-08-01 11:09:26,717 - [INFO] - __main__ - Initializing...
+2021-08-01 11:09:26,719 - [INFO] - __main__ - === Config parameters ===
+2021-08-01 11:09:26,720 - [INFO] - __main__ - _source_base -> /mnt/c/Assignments/UseCase/
+2021-08-01 11:09:26,721 - [INFO] - __main__ - _source_image_path -> /mnt/c/Assignments/UseCase/images/
+2021-08-01 11:09:26,721 - [INFO] - __main__ - _target_text_path -> /mnt/c/Assignments/UseCase/text/
+2021-08-01 11:09:26,727 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/UseCase/images/ABN_88_1.JPG ##
+2021-08-01 11:09:27,509 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/UseCase/text/ABN_88_1.txt ...
+2021-08-01 11:09:40,447 - [INFO] - __main__ - Initializing...
+2021-08-01 11:09:40,448 - [INFO] - __main__ - === Config parameters ===
+2021-08-01 11:09:40,449 - [INFO] - __main__ - _source_base -> /mnt/c/Assignments/UseCase/
+2021-08-01 11:09:40,450 - [INFO] - __main__ - _source_image_path -> /mnt/c/Assignments/UseCase/images/
+2021-08-01 11:09:40,450 - [INFO] - __main__ - _target_text_path -> /mnt/c/Assignments/UseCase/text/
+2021-08-01 11:09:40,455 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/UseCase/images/ABN_88_1.JPG ##
+2021-08-01 11:09:41,068 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/UseCase/text/ABN_88_1.txt ...
+2021-08-01 11:09:41,075 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/UseCase/images/ABN_88_2.JPG ##
+2021-08-01 11:09:41,542 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/UseCase/text/ABN_88_2.txt ...
+2021-08-01 11:09:41,549 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/UseCase/images/CITI_1108_1.JPG ##
+2021-08-01 11:09:42,077 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/UseCase/text/CITI_1108_1.txt ...
+2021-08-01 11:09:42,087 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/UseCase/images/CITI_1108_2.JPG ##
+2021-08-01 11:09:42,561 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/UseCase/text/CITI_1108_2.txt ...
+2021-08-01 11:09:42,568 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/UseCase/images/HSBC_330_1.JPG ##
+2021-08-01 11:09:43,094 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/UseCase/text/HSBC_330_1.txt ...
+2021-08-01 11:09:43,101 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/UseCase/images/HSBC_330_5.JPG ##
+2021-08-01 11:09:43,562 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/UseCase/text/HSBC_330_5.txt ...
+2021-08-01 11:09:43,568 - [INFO] - __main__ - ===============
+2021-08-01 11:09:43,569 - [INFO] - __main__ - == Use case Completed ==
+2021-08-01 11:09:43,570 - [INFO] - __main__ - ===============
+2021-08-01 11:10:29,183 - [INFO] - __main__ - Initializing...
+2021-08-01 11:10:29,184 - [INFO] - __main__ - === Config parameters ===
+2021-08-01 11:10:29,185 - [INFO] - __main__ - _source_base -> /mnt/c/Assignments/UseCase/
+2021-08-01 11:10:29,186 - [INFO] - __main__ - _source_image_path -> /mnt/c/Assignments/UseCase/images/
+2021-08-01 11:10:29,187 - [INFO] - __main__ - _target_text_path -> /mnt/c/Assignments/UseCase/text/
+2021-08-01 11:10:29,202 - [INFO] - __main__ - _source_image_path File count -> 6
+2021-08-01 11:10:29,208 - [INFO] - __main__ - _source_image_path File count -> 6
+2021-08-01 11:10:29,214 - [INFO] - __main__ - source file -> ABN_88_1.JPG
+2021-08-01 11:10:29,219 - [INFO] - __main__ - target file -> ABN_88_1.txt
+2021-08-01 11:10:29,220 - [INFO] - __main__ - source file -> ABN_88_2.JPG
+2021-08-01 11:10:29,224 - [INFO] - __main__ - target file -> ABN_88_2.txt
+2021-08-01 11:10:29,225 - [INFO] - __main__ - source file -> CITI_1108_1.JPG
+2021-08-01 11:10:29,228 - [INFO] - __main__ - target file -> CITI_1108_1.txt
+2021-08-01 11:10:29,230 - [INFO] - __main__ - source file -> CITI_1108_2.JPG
+2021-08-01 11:10:29,235 - [INFO] - __main__ - target file -> CITI_1108_2.txt
+2021-08-01 11:10:29,236 - [INFO] - __main__ - source file -> HSBC_330_1.JPG
+2021-08-01 11:10:29,241 - [INFO] - __main__ - target file -> HSBC_330_1.txt
+2021-08-01 11:10:29,242 - [INFO] - __main__ - source file -> HSBC_330_5.JPG
+2021-08-01 11:10:29,246 - [INFO] - __main__ - target file -> HSBC_330_5.txt
+2021-08-01 11:10:56,509 - [INFO] - __main__ - Initializing...
+2021-08-01 11:10:56,510 - [INFO] - __main__ - === Config parameters ===
+2021-08-01 11:10:56,510 - [INFO] - __main__ - _source_base -> /mnt/c/Assignments/UseCase/
+2021-08-01 11:10:56,511 - [INFO] - __main__ - _source_image_path -> /mnt/c/Assignments/UseCase/images/
+2021-08-01 11:10:56,512 - [INFO] - __main__ - _target_text_path -> /mnt/c/Assignments/UseCase/text/
+2021-08-01 11:10:56,520 - [INFO] - __main__ - _source_image_path File count -> 6
+2021-08-01 11:10:56,525 - [INFO] - __main__ - _source_image_path File count -> 6
+2021-08-01 11:10:56,531 - [INFO] - __main__ - source file -> ABN_88_1.JPG
+2021-08-01 11:10:56,534 - [INFO] - __main__ - target file -> ABN_88_1.txt
+2021-08-01 11:10:56,535 - [INFO] - __main__ - source file -> ABN_88_2.JPG
+2021-08-01 11:10:56,537 - [INFO] - __main__ - target file -> ABN_88_2.txt
+2021-08-01 11:10:56,538 - [INFO] - __main__ - source file -> CITI_1108_1.JPG
+2021-08-01 11:10:56,542 - [INFO] - __main__ - target file -> CITI_1108_1.txt
+2021-08-01 11:10:56,542 - [INFO] - __main__ - source file -> CITI_1108_2.JPG
+2021-08-01 11:10:56,546 - [INFO] - __main__ - target file -> CITI_1108_2.txt
+2021-08-01 11:10:56,546 - [INFO] - __main__ - source file -> HSBC_330_1.JPG
+2021-08-01 11:10:56,549 - [INFO] - __main__ - target file -> HSBC_330_1.txt
+2021-08-01 11:10:56,550 - [INFO] - __main__ - source file -> HSBC_330_5.JPG
+2021-08-01 11:10:56,553 - [INFO] - __main__ - target file -> HSBC_330_5.txt

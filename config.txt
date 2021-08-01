@@ -1,0 +1,4 @@
+ocr:
+  source_base: "/mnt/c/Assignments/UseCase/"
+  source_image_path: "/mnt/c/Assignments/UseCase/images/"
+  target_text_path: "/mnt/c/Assignments/UseCase/text/"
