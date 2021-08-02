@@ -21,15 +21,15 @@ COPY info.log .
 
 COPY ./images/ /usr/src/images/
 
-RUN sudo apt update
-RUN sudo apt install tesseract-ocr
-RUN sudo apt install libtesseract-dev
+RUN apt update
+RUN apt install -y tesseract-ocr
+RUN apt install -y libtesseract-dev
+RUN /usr/local/bin/python -m pip install --upgrade pip
 
-RUN pip install --no-cache-dir cython
 RUN pip install --disable-pip-version-check --no-cache-dir -r requirements.txt
-RUN pip install --disable-pip-version-check --no-cache-dir hypercorn[uvloop]
-RUN rm -rf ~/.cache/pip
 
+#RUN rm -rf ~/.cache/pip
+RUN echo 'export ETL_FRAMEWORK_HOME=/usr/src/OCRApp' >> ~/.bashrc 
 
 
 ENV QUART_ENV="Test"
@@ -39,4 +39,4 @@ EXPOSE 80
 
 VOLUME /logs
 
-CMD ["python", "main.py"]
+CMD ["python /usr/src/main.py" && "python /usr/src/test.py"]

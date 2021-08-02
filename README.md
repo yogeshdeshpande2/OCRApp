@@ -74,3 +74,11 @@ For the above images, the key-value pairs will be in the form of {“Country”:
 2. This has the error and info log files specified
 3. The logs are stored/appended in info.log
 4. The errors are added/appended in error.log
+
+# Docker image
+1. Creating an image ocrapp from the dockerfile
+   docker build /mnt/c/Assignments/OCRApp -t ocrappimage
+2. Create a container from the ocrappimage
+   docker run -d -p 80:80 --name ocrappContainer ocrappimage
+3. Check the container filesystem
+   docker exec -t -i ocrappContainer /bin/bash
