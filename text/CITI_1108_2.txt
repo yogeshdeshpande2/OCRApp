@@ -1,1 +1,1 @@
-{"CR No.": "1108-2", "Company Type": " Branch of a Foreign Company", "Status": "DELETED", "Nationality": "AMERICAN", "Registration Date": "19/05/2011", "Expiry Date": "19/05/2019"}
+{"CR No.": "1108-2", "Company Type": " Branch of a Foreign Company", "Status": " DELETED WITH PAYMENT", "Nationality": "AMERICAN", "Registration Date": "19/05/2011", "Expiry Date": "19/05/2019", "Company Period": " N/A"}

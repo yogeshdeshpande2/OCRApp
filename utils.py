@@ -75,18 +75,47 @@ def ocr_main(img):
     last_word2 = ''
     companytype = ''
     companyname = ''
+    status=''
     statusflag = 1
     companynameflag = 1
+    nationalityflag=1
+    companyperiod=''
+    finyearendflag=1
 
     for word in d['text']:
         if word!='':
-            #print(f"last_word2 -> {last_word2} & last_word -> {last_word} & word -> {word}")
-            if ((last_word2 == 'CR' and  last_word == 'No.') or (last_word2 == 'Registration' and  last_word == 'Date') or (last_word2 == 'Expiry' and  last_word == 'Date')):
+            
+            #print(f"last_word2 -> {last_word2} & last_word -> [{last_word}] & word -> {word}")
+
+            if (last_word == 'Status') or (nationalityflag == 0):
+                if last_word == 'Status':
+                    nationalityflag = 0
+                
+                if word != 'Nationality':
+                    status = status + ' ' + word
+                else:
+                    nationalityflag = 1
+                    dict1['Status'] = status
+
+            elif (last_word2 == 'Company' and  last_word == 'Period') or (finyearendflag == 0):
+                if (last_word2 == 'Company' and  last_word == 'Period'):
+                    finyearendflag = 0
+                
+                if word != 'Financial':
+                    companyperiod = companyperiod + ' ' + word
+                else:
+                    finyearendflag = 1
+                    dict1['Company Period'] = companyperiod
+
+            elif ((last_word2 == 'CR' and  last_word == 'No.') or (last_word2 == 'Registration' and  last_word == 'Date') or (last_word2 == 'Expiry' and  last_word == 'Date')):
                 dict1[last_word2 + ' ' + last_word] = word
-            elif last_word == 'Status' or last_word == 'Nationality' or last_word == 'CRNo.':
+            
+            elif last_word == 'Nationality' or last_word == 'CRNo.':
                 dict1[last_word] = word
+            
             elif (last_word2 == 'Year' and  last_word == 'End'):
                 dict1['Financial Year End'] = word
+            
             elif (last_word2 == 'Company' and  last_word == 'Type') or (statusflag == 0):
                 if (last_word2 == 'Company' and  last_word == 'Type'):
                     statusflag = 0

@@ -1,1 +1,0 @@
-{"CR No.": "851-22", "Company Type": " Bahrain Shareholding Company (Closed)", "Status": "DELETED", "Nationality": "BAHRAINI", "Registration Date": "18/04/2006", "Expiry Date": "="}

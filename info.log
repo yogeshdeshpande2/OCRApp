@@ -1,55 +1,59 @@
-2021-08-02 01:24:43,805 - [INFO] - __main__ - Initializing...
-2021-08-02 01:24:43,806 - [INFO] - __main__ - === Config parameters ===
-2021-08-02 01:24:43,807 - [INFO] - __main__ - _source_base -> /mnt/c/Assignments/OCRApp/
-2021-08-02 01:24:43,807 - [INFO] - __main__ - _source_image_path -> /mnt/c/Assignments/OCRApp/images/
-2021-08-02 01:24:43,808 - [INFO] - __main__ - _target_text_path -> /mnt/c/Assignments/OCRApp/text/
-2021-08-02 01:24:43,811 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/OCRApp/images/ABN_88_1.JPG ##
-2021-08-02 01:24:44,568 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/OCRApp/text/ABN_88_1.txt ...
-2021-08-02 01:24:44,573 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/OCRApp/images/ABN_88_2.JPG ##
-2021-08-02 01:24:45,411 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/OCRApp/text/ABN_88_2.txt ...
-2021-08-02 01:24:45,416 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/OCRApp/images/AMERICAN_INSURANCE_171_1.JPG ##
-2021-08-02 01:24:46,154 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/OCRApp/text/AMERICAN_INSURANCE_171_1.txt ...
-2021-08-02 01:24:46,217 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/OCRApp/images/CHASE_1363_1.JPG ##
-2021-08-02 01:24:47,411 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/OCRApp/text/CHASE_1363_1.txt ...
-2021-08-02 01:24:47,414 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/OCRApp/images/CHASE_5070_1.JPG ##
-2021-08-02 01:24:48,151 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/OCRApp/text/CHASE_5070_1.txt ...
-2021-08-02 01:24:48,155 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/OCRApp/images/CITI_1108_1.JPG ##
-2021-08-02 01:24:48,872 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/OCRApp/text/CITI_1108_1.txt ...
-2021-08-02 01:24:48,876 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/OCRApp/images/CITI_1108_2.JPG ##
-2021-08-02 01:24:49,883 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/OCRApp/text/CITI_1108_2.txt ...
-2021-08-02 01:24:49,887 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/OCRApp/images/HSBC_330_1.JPG ##
-2021-08-02 01:24:50,671 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/OCRApp/text/HSBC_330_1.txt ...
-2021-08-02 01:24:50,675 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/OCRApp/images/HSBC_330_5.JPG ##
-2021-08-02 01:24:51,426 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/OCRApp/text/HSBC_330_5.txt ...
-2021-08-02 01:24:51,431 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/OCRApp/images/LONDON_DAIRY_851_22.JPG ##
-2021-08-02 01:24:52,655 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/OCRApp/text/LONDON_DAIRY_851_22.txt ...
-2021-08-02 01:24:52,659 - [INFO] - __main__ - ===============
-2021-08-02 01:24:52,660 - [INFO] - __main__ - == Use case Completed ==
-2021-08-02 01:24:52,660 - [INFO] - __main__ - ===============
-2021-08-02 01:24:56,937 - [INFO] - __main__ - Initializing...
-2021-08-02 01:24:56,937 - [INFO] - __main__ - === Config parameters ===
-2021-08-02 01:24:56,938 - [INFO] - __main__ - _source_base -> /mnt/c/Assignments/OCRApp/
-2021-08-02 01:24:56,938 - [INFO] - __main__ - _source_image_path -> /mnt/c/Assignments/OCRApp/images/
-2021-08-02 01:24:56,939 - [INFO] - __main__ - _target_text_path -> /mnt/c/Assignments/OCRApp/text/
-2021-08-02 01:24:56,945 - [INFO] - __main__ - _source_image_path File count -> 10
-2021-08-02 01:24:56,948 - [INFO] - __main__ - _source_image_path File count -> 10
-2021-08-02 01:24:56,951 - [INFO] - __main__ - source file -> ABN_88_1.JPG
-2021-08-02 01:24:56,953 - [INFO] - __main__ - target file -> ABN_88_1.txt
-2021-08-02 01:24:56,954 - [INFO] - __main__ - source file -> ABN_88_2.JPG
-2021-08-02 01:24:56,956 - [INFO] - __main__ - target file -> ABN_88_2.txt
-2021-08-02 01:24:56,956 - [INFO] - __main__ - source file -> AMERICAN_INSURANCE_171_1.JPG
-2021-08-02 01:24:56,959 - [INFO] - __main__ - target file -> AMERICAN_INSURANCE_171_1.txt
-2021-08-02 01:24:56,959 - [INFO] - __main__ - source file -> CHASE_1363_1.JPG
-2021-08-02 01:24:56,962 - [INFO] - __main__ - target file -> CHASE_1363_1.txt
-2021-08-02 01:24:56,963 - [INFO] - __main__ - source file -> CHASE_5070_1.JPG
-2021-08-02 01:24:56,966 - [INFO] - __main__ - target file -> CHASE_5070_1.txt
-2021-08-02 01:24:56,966 - [INFO] - __main__ - source file -> CITI_1108_1.JPG
-2021-08-02 01:24:56,969 - [INFO] - __main__ - target file -> CITI_1108_1.txt
-2021-08-02 01:24:56,970 - [INFO] - __main__ - source file -> CITI_1108_2.JPG
-2021-08-02 01:24:56,973 - [INFO] - __main__ - target file -> CITI_1108_2.txt
-2021-08-02 01:24:56,973 - [INFO] - __main__ - source file -> HSBC_330_1.JPG
-2021-08-02 01:24:56,976 - [INFO] - __main__ - target file -> HSBC_330_1.txt
-2021-08-02 01:24:56,977 - [INFO] - __main__ - source file -> HSBC_330_5.JPG
-2021-08-02 01:24:56,980 - [INFO] - __main__ - target file -> HSBC_330_5.txt
-2021-08-02 01:24:56,981 - [INFO] - __main__ - source file -> LONDON_DAIRY_851_22.JPG
-2021-08-02 01:24:56,983 - [INFO] - __main__ - target file -> LONDON_DAIRY_851_22.txt
+2021-08-03 01:02:22,695 - [INFO] - __main__ - Initializing...
+2021-08-03 01:02:22,695 - [INFO] - __main__ - === Config parameters ===
+2021-08-03 01:02:22,696 - [INFO] - __main__ - _source_base -> /mnt/c/Assignments/OCRApp/
+2021-08-03 01:02:22,697 - [INFO] - __main__ - _source_image_path -> /mnt/c/Assignments/OCRApp/images/
+2021-08-03 01:02:22,697 - [INFO] - __main__ - _target_text_path -> /mnt/c/Assignments/OCRApp/text/
+2021-08-03 01:02:22,700 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/OCRApp/images/ABN_88_1.JPG ##
+2021-08-03 01:02:23,458 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/OCRApp/text/ABN_88_1.txt ...
+2021-08-03 01:02:23,462 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/OCRApp/images/ABN_88_2.JPG ##
+2021-08-03 01:02:24,271 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/OCRApp/text/ABN_88_2.txt ...
+2021-08-03 01:02:24,275 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/OCRApp/images/AMERICAN_INSURANCE_171_1.JPG ##
+2021-08-03 01:02:25,074 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/OCRApp/text/AMERICAN_INSURANCE_171_1.txt ...
+2021-08-03 01:02:25,078 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/OCRApp/images/CHASE_1363_1.JPG ##
+2021-08-03 01:02:25,852 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/OCRApp/text/CHASE_1363_1.txt ...
+2021-08-03 01:02:25,857 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/OCRApp/images/CHASE_5070_1.JPG ##
+2021-08-03 01:02:26,743 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/OCRApp/text/CHASE_5070_1.txt ...
+2021-08-03 01:02:26,748 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/OCRApp/images/CITI_1108_1.JPG ##
+2021-08-03 01:02:27,491 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/OCRApp/text/CITI_1108_1.txt ...
+2021-08-03 01:02:27,498 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/OCRApp/images/CITI_1108_2.JPG ##
+2021-08-03 01:02:28,265 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/OCRApp/text/CITI_1108_2.txt ...
+2021-08-03 01:02:28,270 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/OCRApp/images/HDFC_66967_1.JPG ##
+2021-08-03 01:02:28,956 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/OCRApp/text/HDFC_66967_1.txt ...
+2021-08-03 01:02:28,960 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/OCRApp/images/HSBC_330_1.JPG ##
+2021-08-03 01:02:29,838 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/OCRApp/text/HSBC_330_1.txt ...
+2021-08-03 01:02:29,843 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/OCRApp/images/HSBC_330_5.JPG ##
+2021-08-03 01:02:30,710 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/OCRApp/text/HSBC_330_5.txt ...
+2021-08-03 01:02:30,718 - [INFO] - __main__ - ## Processing image : /mnt/c/Assignments/OCRApp/images/LLOYD_4715_1.JPG ##
+2021-08-03 01:02:31,524 - [INFO] - __main__ - Creating a text file /mnt/c/Assignments/OCRApp/text/LLOYD_4715_1.txt ...
+2021-08-03 01:02:31,529 - [INFO] - __main__ - ===============
+2021-08-03 01:02:31,532 - [INFO] - __main__ - == Use case Completed ==
+2021-08-03 01:02:31,532 - [INFO] - __main__ - ===============
+2021-08-03 01:02:38,179 - [INFO] - __main__ - Initializing...
+2021-08-03 01:02:38,180 - [INFO] - __main__ - === Config parameters ===
+2021-08-03 01:02:38,181 - [INFO] - __main__ - _source_base -> /mnt/c/Assignments/OCRApp/
+2021-08-03 01:02:38,181 - [INFO] - __main__ - _source_image_path -> /mnt/c/Assignments/OCRApp/images/
+2021-08-03 01:02:38,182 - [INFO] - __main__ - _target_text_path -> /mnt/c/Assignments/OCRApp/text/
+2021-08-03 01:02:38,259 - [INFO] - __main__ - _source_image_path File count -> 11
+2021-08-03 01:02:38,265 - [INFO] - __main__ - _source_image_path File count -> 11
+2021-08-03 01:02:38,269 - [INFO] - __main__ - source file -> ABN_88_1.JPG
+2021-08-03 01:02:38,272 - [INFO] - __main__ - target file -> ABN_88_1.txt
+2021-08-03 01:02:38,273 - [INFO] - __main__ - source file -> ABN_88_2.JPG
+2021-08-03 01:02:38,275 - [INFO] - __main__ - target file -> ABN_88_2.txt
+2021-08-03 01:02:38,276 - [INFO] - __main__ - source file -> AMERICAN_INSURANCE_171_1.JPG
+2021-08-03 01:02:38,278 - [INFO] - __main__ - target file -> AMERICAN_INSURANCE_171_1.txt
+2021-08-03 01:02:38,279 - [INFO] - __main__ - source file -> CHASE_1363_1.JPG
+2021-08-03 01:02:38,283 - [INFO] - __main__ - target file -> CHASE_1363_1.txt
+2021-08-03 01:02:38,283 - [INFO] - __main__ - source file -> CHASE_5070_1.JPG
+2021-08-03 01:02:38,287 - [INFO] - __main__ - target file -> CHASE_5070_1.txt
+2021-08-03 01:02:38,288 - [INFO] - __main__ - source file -> CITI_1108_1.JPG
+2021-08-03 01:02:38,292 - [INFO] - __main__ - target file -> CITI_1108_1.txt
+2021-08-03 01:02:38,293 - [INFO] - __main__ - source file -> CITI_1108_2.JPG
+2021-08-03 01:02:38,296 - [INFO] - __main__ - target file -> CITI_1108_2.txt
+2021-08-03 01:02:38,297 - [INFO] - __main__ - source file -> HDFC_66967_1.JPG
+2021-08-03 01:02:38,300 - [INFO] - __main__ - target file -> HDFC_66967_1.txt
+2021-08-03 01:02:38,301 - [INFO] - __main__ - source file -> HSBC_330_1.JPG
+2021-08-03 01:02:38,303 - [INFO] - __main__ - target file -> HSBC_330_1.txt
+2021-08-03 01:02:38,304 - [INFO] - __main__ - source file -> HSBC_330_5.JPG
+2021-08-03 01:02:38,307 - [INFO] - __main__ - target file -> HSBC_330_5.txt
+2021-08-03 01:02:38,307 - [INFO] - __main__ - source file -> LLOYD_4715_1.JPG
+2021-08-03 01:02:38,309 - [INFO] - __main__ - target file -> LLOYD_4715_1.txt

@@ -1,1 +1,1 @@
-{"CR No.": "330-1", "Company Type": " Branch of a Foreign Company", "Status": "ACTIVE", "Nationality": "EMARATI", "Registration Date": "08/04/1961", "Expiry Date": "08/01/2022", "Financial Year End": "31/12"}
+{"CR No.": "330-1", "Company Type": " Branch of a Foreign Company", "Status": " ACTIVE", "Nationality": "EMARATI", "Registration Date": "08/04/1961", "Expiry Date": "08/01/2022", "Company Period": " N/A", "Financial Year End": "31/12"}

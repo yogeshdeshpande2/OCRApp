@@ -1,0 +1,1 @@
+{"CR No.": "4715-1", "Company Type": " Branch of a Foreign Company", "Status": " DELETED WITHOUT PAYMENT", "Nationality": "BAHRAINI", "Registration Date": "11/03/1976", "Expiry Date": "11/03/1986", "Company Period": " N/A"}

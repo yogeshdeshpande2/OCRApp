@@ -1,1 +1,1 @@
-{"CR No.": "88-2", "Company Type": " Simple Commandite Company", "Status": "DELETED", "Nationality": "BAHRAINI", "Registration Date": "11/03/1978", "Expiry Date": "11/03/1998"}
+{"CR No.": "88-2", "Company Type": " Simple Commandite Company", "Status": " DELETED WITHOUT PAYMENT", "Nationality": "BAHRAINI", "Registration Date": "11/03/1978", "Expiry Date": "11/03/1998", "Company Period": " N/A"}

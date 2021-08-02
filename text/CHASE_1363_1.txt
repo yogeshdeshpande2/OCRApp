@@ -1,1 +1,1 @@
-{"CR No.": "1363-1", "Company Type": " Branch of a Foreign Company", "Status": "DELETED", "Nationality": "AMERICAN", "Registration Date": "03/07/1972", "Expiry Date": "03/07/1991", "Financial Year End": "31/12"}
+{"CR No.": "1363-1", "Company Type": " Branch of a Foreign Company", "Status": " DELETED WITHOUT PAYMENT", "Nationality": "AMERICAN", "Registration Date": "03/07/1972", "Expiry Date": "03/07/1991", "Company Period": " Limited", "Financial Year End": "31/12"}

@@ -79,6 +79,6 @@ For the above images, the key-value pairs will be in the form of {“Country”:
 1. Creating an image ocrapp from the dockerfile
    docker build /mnt/c/Assignments/OCRApp -t ocrappimage
 2. Create a container from the ocrappimage
-   docker run -d -p 80:80 --name ocrappContainer ocrappimage
+   docker run -d --name ocrappContainer ocrappimage
 3. Check the container filesystem
    docker exec -t -i ocrappContainer /bin/bash

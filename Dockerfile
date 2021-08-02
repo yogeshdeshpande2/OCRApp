@@ -39,4 +39,4 @@ EXPOSE 80
 
 VOLUME /logs
 
-CMD ["python /usr/src/main.py" && "python /usr/src/test.py"]
+CMD ["python -u /usr/src/main.py" && "python -u /usr/src/test.py" ]
